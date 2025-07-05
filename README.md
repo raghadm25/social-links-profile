@@ -33,7 +33,7 @@ Users should be able to:
 
 ### 🔗 Links
 
-* **Solution URL:** [View on Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-your-solution-url)
+* **Solution URL:** [View on Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-links-profile-XNtnF7lLfu)
 * **Live Site URL:** [View Live Site](https://raghadm25.github.io/social-links-profile/)
 
 ---
