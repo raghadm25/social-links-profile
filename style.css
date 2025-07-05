@@ -9,6 +9,8 @@ body {
     place-self: center;
     justify-content: center;
     place-items: center;
+    display: flex;
+    flex-direction: column;
     font-family: 'Inter', sans-serif;
     background-color:  hsl(0, 0%, 8%);
     margin: auto;
@@ -23,7 +25,7 @@ body {
     text-align: center;
     padding: 30px;
     place-self: center;
-    margin-top: 100px;
+    inline-size: 350px;
 }
 
 .profile-image {

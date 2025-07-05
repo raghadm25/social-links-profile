@@ -65,7 +65,6 @@ MDN Web Docs – My go-to for HTML/CSS documentation.
 
 * Frontend Mentor – [@raghadm25](https://www.frontendmentor.io/profile/raghadm25)
 * GitHub – [@raghadm25](https://github.com/raghadm25)
-* Live Portfolio – [your-site.com](https://your-site.com)
 
 ---
 ### Acknowlegements 
